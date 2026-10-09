@@ -6,7 +6,7 @@ Small e-commerce brands need fresh ad creatives constantly, but product photosho
 
 I built this for my own store, [Gemtechs](https://gemtechs.ge) (gaming peripherals), where every new product needs ad creatives for TikTok, Instagram and Facebook.
 
-![SnapAd screenshot](docs/screenshot-demo.png)
+![SnapAd screenshot](screenshot-demo.png)
 <sub>Screenshot taken in demo mode. Add your real screenshot here after a live run.</sub>
 
 ## How it works
